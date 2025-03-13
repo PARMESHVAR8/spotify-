@@ -64,18 +64,3 @@ It includes functionalities for creating, browsing, and removing albums, as well
 2. Create new albums and songs on the Spotify Admin page.
 3. Browse albums and songs, create playlists, and enjoy music.
 
-## Screenshot
-
-### Admin Add Song Page
-![Screenshot_1](https://github.com/user-attachments/assets/a6068724-71a5-49ef-99d7-419c215f94ae)
-
-### Admin Song List Page
-![Screenshot_2](https://github.com/user-attachments/assets/5ffb918c-27ec-4db5-8855-81b83d1d5725)
-
-### Home Page
-![Screenshot_3](https://github.com/user-attachments/assets/b4ead4c4-d267-495a-ab57-7f9c5006b340)
-
-### Album Page
-![Screenshot_4](https://github.com/user-attachments/assets/33e1dcdb-f794-4b1e-82cc-3c588c4b23c1)
-
-
